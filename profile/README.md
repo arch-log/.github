@@ -5,6 +5,9 @@
 [仕様](https://github.com/arch-log/specifications)
 
 [開発関連](https://github.com/arch-log/dev.github)
+
+[バグ](https://github.com/arch-log/bugs)
+
 <!--
 
 **Here are some ideas to get you started:**
